@@ -1,6 +1,8 @@
 A simple Java EE 7 Sample
 =========================
 
+Branche hotfix
+
 This is a trivial Java EE 7 sample.
 
 . Download WildFly 8.2 from
